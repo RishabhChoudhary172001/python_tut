@@ -1,0 +1,2 @@
+hello this is created by me in python for creating fileThis data is appended by rishabh hope this will added to the file quickly
+ the content is appended by the def function write to file
